@@ -1,4 +1,0 @@
-__pycache__/
-*.pyc
-model_files/*.h5
-model_files/*.keras
